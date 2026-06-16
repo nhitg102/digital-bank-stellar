@@ -86,3 +86,5 @@ This project is licensed under the MIT License.
 * Emergency Pause Control
 
 ![Contract Architecture](image.png)
+
+Contract ID: CBN4MDC333YAPT7ENPNSJ76IU2MZLCV6BPL3NJGCVGJUY544S5N5Z7KT
